@@ -1,0 +1,6 @@
+name: CraftLib
+description: Crafting library that manages custom item based ingredients.
+author: Raus
+main: com.raus.craftLib.CraftLib
+version: 1.0
+api-version: 1.15
