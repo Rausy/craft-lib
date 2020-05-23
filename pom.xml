@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.raus.craftLib</groupId>
 	<artifactId>CraftLib</artifactId>
-	<version>1.0</version>
+	<version>v1.0</version>
 	<build>
 		<plugins>
 			<plugin>
